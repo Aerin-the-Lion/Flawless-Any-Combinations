@@ -1,0 +1,9 @@
+C:\Users\admin\Documents\C#_Tool\AnyCombinationIsPerfect\AnyCombinationIsPerfect\bin\Debug\AnyCombinationIsPerfect.dll
+C:\Users\admin\Documents\C#_Tool\AnyCombinationIsPerfect\AnyCombinationIsPerfect\bin\Debug\AnyCombinationIsPerfect.pdb
+C:\Users\admin\Documents\C#_Tool\AnyCombinationIsPerfect\AnyCombinationIsPerfect\obj\Debug\AnyCombinationIsPerfect.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\C#_Tool\AnyCombinationIsPerfect\AnyCombinationIsPerfect\obj\Debug\AnyCombinationIsPerfect.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\C#_Tool\AnyCombinationIsPerfect\AnyCombinationIsPerfect\obj\Debug\AnyCombinationIsPerfect.dll
+C:\Users\admin\Documents\C#_Tool\AnyCombinationIsPerfect\AnyCombinationIsPerfect\obj\Debug\AnyCombinationIsPerfect.pdb
+C:\Program Files (x86)\Steam\steamapps\common\Mad Games Tycoon 2\BepInEx\plugins\AnyCombinationIsPerfect.dll
+C:\Program Files (x86)\Steam\steamapps\common\Mad Games Tycoon 2\BepInEx\plugins\AnyCombinationIsPerfect.pdb
+C:\Users\admin\Documents\C#_Tool\AnyCombinationIsPerfect\AnyCombinationIsPerfect\obj\Debug\AnyCombinationIsPerfect.csproj.CopyComplete
